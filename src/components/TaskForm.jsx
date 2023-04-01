@@ -24,7 +24,7 @@ function TaskForm() {
 				className="bg-slate-800 p-10 mb-4 rounded-md"
 				onSubmit={handleSubmit}
 			>
-				<h1 className="text-white text-2xl font-bold" mb-3>
+				<h1 className="text-white text-2xl font-bold mb-3">
 					Crea tu tarea
 				</h1>
 				<input
